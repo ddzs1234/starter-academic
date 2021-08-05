@@ -28,7 +28,7 @@ address:
   region: Jiangsu Province
   postcode: '210023'
   country: China
-  country_code:CN
+  country_code: CN
 coordinates:
   latitude: '32.10979'
   longitude: '118.96146'
